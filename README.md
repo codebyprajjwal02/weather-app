@@ -1,0 +1,2 @@
+Weather App: Real-Time Weather Conditions for Multiple Cities
+This Weather App provides real-time weather updates for various cities around the world. By simply entering the name of a city, users can access detailed weather information such as temperature, humidity, wind speed, and weather condition. The app uses reliable weather APIs to fetch live data and display it in a user-friendly interface.
